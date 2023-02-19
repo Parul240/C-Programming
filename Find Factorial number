@@ -50,6 +50,8 @@ void main(){
 
   printf("Input the number : ");
   scanf("%d",&num);
+  
+  //LOOP TO CALCULATE THE FACTORIAL OF A NUMBER
   do{
     i++;  
     f*=i;
